@@ -1,0 +1,85 @@
+*{
+    background-image: url(https://images.unsplash.com/photo-1497044383938-c0486a41b655?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1015&q=80);
+    background-color: black;
+    background-size: cover;
+    font-size: 80px;
+    color: red;
+    font-family: 'Lucida Console'
+}
+h3{
+    flex: wrap;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    color: red;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+body{
+    flex: wrap;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    color: whitesmoke;
+    font-size: 20px;
+    left: 270px;
+    right: 270px;
+    text-align: center;
+    }
+
+
+.button2{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    position:absolute;
+    bottom: 80px;
+    left: 270px;
+    padding: 9px 24px;
+    border: 6px solid #000000;
+    border-radius: 100px;
+    background: #000000;
+    background: -moz-linear-gradient(top, #000000, #000000);
+    background: linear-gradient(to bottom, #000000, #000000);
+    -webkit-box-shadow: #ff0000 0px 0px 48px 6px;
+    -moz-box-shadow: #ff0000 0px 0px 48px 6px;
+    box-shadow: #ff0000 0px 0px 48px 6px;
+    text-shadow: #000000 1px 1px 1px;
+    font: italic normal bold 20px georgia;
+    color: whitesmoke;
+    text-decoration: none;
+}
+.button2:hover,
+.button2:active,
+.button2:focus {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.button3 {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    position:absolute;
+    bottom: 80px;
+    right: 270px;
+    padding: 9px 24px;
+    border: 6px solid #000000;
+    border-radius: 100px;
+    background: #ff0000;
+    background: -moz-linear-gradient(top, #000000, #000000);
+    background: linear-gradient(to bottom, #000000, #000000);
+    -webkit-box-shadow: #ff0000 0px 0px 48px 6px;
+    -moz-box-shadow: #ff0000 0px 0px 48px 6px;
+    box-shadow: #ff0000 0px 0px 48px 6px;
+    text-shadow: #000000 1px 1px 1px;
+    font: italic normal bold 20px georgia;
+    color: whitesmoke;
+    text-decoration: none;
+}
+.button3,:hover
+.button3:active,
+.button3:focus {
+    color: #ffffff;
+    text-decoration: none;
+}
+
