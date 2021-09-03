@@ -17,9 +17,6 @@ body{
 }
 
 .button {
-    flex: auto;
-    flex-basis: auto;
-    flex-direction: column;
     display: inline-block;
     text-align: center;
     vertical-align: middle;
